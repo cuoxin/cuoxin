@@ -19,5 +19,6 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cuoxin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src = “https://github-readme-stats.vercel.app/api?icon_color=2bbc8a&bg_color=1d1f21&title_color=2bbc8a&text_color=2bbc8a&username=cuoxin&show_icons=true&include_all_commits=true”  width = “50%” align = left>
-<img src = “https://github-readme-stats.vercel.app/api/top-langs/?bg_color=1d1f21&title_color=2bbc8a&text_color=2bbc8a&layout=compact&username=cuoxin”  width = “50%” align = right>
+![cuoxin's github stats](https://github-readme-stats.vercel.app/api?icon_color=2bbc8a&bg_color=1d1f21&title_color=2bbc8a&text_color=2bbc8a&username=cuoxin&show_icons=true&include_all_commits=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?bg_color=1d1f21&title_color=2bbc8a&text_color=2bbc8a&layout=compact&username=cuoxin)
